@@ -1,5 +1,6 @@
 {
     "name": "doug-thwaites/betfair-esa-client",
+    "version": "1.0.0",
     "description": "Betfair ESA client generated with Swagger",
     "keywords": [
         "swagger",
