@@ -1,6 +1,6 @@
 {
     "name": "doug-thwaites/betfair-esa-client",
-    "description": "",
+    "description": "Betfair ESA client generated with Swagger",
     "keywords": [
         "swagger",
         "php",
